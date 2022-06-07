@@ -1,0 +1,258 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+    .main{
+        background-color: gray;
+       height: 235vh;
+    }
+    .box1{
+        height:100px;
+        width:300px;
+        border: 5px solid red;
+        border-radius: 10px;
+        box-shadow: 3px 2px 1px 2px rgb(142, 14, 131);
+        margin-bottom: 10px;
+        margin-left: 40%  ;
+        padding-top: 20PX;
+        background-color: white;
+     
+    }
+    .box1 .p1{
+        font-size: 20px;
+        font-weight: 600;
+        margin-left: 25%;
+        margin-bottom: 10PX;
+       
+    ;
+       
+    
+    }
+    .box2{
+        border: 5px solid green;
+        margin-top: 20px;
+    
+    }
+    
+    .b1,.b2,.b3,.b4{
+        height: 180px;
+        width: 180px;
+        border: 5px solid red;
+        box-shadow: 3px 2px 1px 2px rgb(142, 14, 131);
+        margin-bottom: 20px;
+        border-radius: 10px;
+        margin-top: 30px;
+        background-color: white;
+        
+    }
+    .b1{
+        margin-top: 10px;
+        margin-left: 60px;
+       
+        
+    }
+    .b1 p{
+        font-size: 17px;
+        font-weight: 800;
+        color: rgb(46, 10, 79);
+        margin-top: 10px;
+        flex: none;
+        flex-wrap: none;
+        margin-top: 20px;
+       
+       
+       
+    
+    }
+    .b11{
+        margin-left: 10px;
+    }
+    .b12{
+        margin-left: 30px;
+    }
+    .b2{
+        background-image: url(pic1.jpg);
+        background-size: cover;
+        position: relative;
+       margin-left: 80%;
+       margin-top: -210px;
+    }
+    .b3{
+        margin-left: 60px;
+        margin-top: 100px;
+    }
+    .b4{
+       
+        position: relative;
+       margin-left: 80%;
+       margin-top: -210px;
+       margin-bottom: 40px;
+    }
+    .b31{
+        font-size:17px ;
+        font-weight: 800;
+        color: rgb(46, 10, 79);
+        margin-bottom:20px ;
+        position: relative;
+        top: 20px;
+    
+    }
+    .b41{
+        font-size: 20px;
+        font-weight: 600;
+        color: rgb(46, 10, 79);
+        margin-top: 10PX;
+        margin-left: 4PX;
+       
+    }
+    .b42{
+        font-size: 18px;
+        font-weight: 600;
+        color: rgb(46, 10, 79);
+      left: 50px;
+        top: 10px;
+        position: relative;
+    
+    }
+    .b43{
+        font-size: 18px;
+        font-weight: 600;
+        color: rgb(46, 10, 79);
+        position: relative;
+        top: 20px;
+        left: 52px;
+       
+    
+    }
+    .b44{
+        width: 80px;
+        position: relative;
+        left: -80px;
+        top: 20px;
+    
+    }
+    
+    
+    
+    
+    .box3{
+        height: 540px;
+        width: 70%;
+        border: 5px solid purple;
+        background-color: green;
+        margin: auto;
+        margin-top: 40px;
+      
+        
+    
+    }
+    input{
+        width: 150px;
+       position: relative;
+       left: -40px;
+       text-align: center;
+    }
+    .b5,.b6,.b7{
+       
+        
+    }
+    .b5{
+        height: 250px;
+        width: 49.5%;
+       
+        margin-right: 7px;
+        background-color: rgb(232, 232, 98);
+    }
+        
+    .b6{
+        height: 250px;
+        width: 49.62%;
+        
+        background-color: rgb(232, 232, 98);
+    }
+    .b7{
+        height: 200px;
+        width: 99.95%;
+        background-color: rgb(232, 232, 98);
+        margin-top: 7px;
+    }
+    
+       
+    .box4{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 30px;
+       
+       
+    }
+    .store{
+        margin-top: 25px;
+        margin-left: 40%;
+    }
+    .box6{
+        height: 100px;
+        width: 400px;
+        border: 5px solid rgb(23, 22, 22);
+        position: fixed;
+        top: 350px;
+        margin-left: 40%;
+        border-radius: 15px;
+        display: flex;
+        flex-wrap: wrap;
+       
+        
+        
+        z-index: 1;
+        background-color: rgba(86, 123, 11, 0.495);
+    }
+    .b8{
+        width: 200px;
+        margin-left: 15px;
+        height: 30px;
+       margin-top: 20px;
+        font-size: 20px;
+        font-weight: 600;
+    
+    }
+    .b9{
+        width: 180px;
+        height: 60px;
+        margin-top: 20px;
+       
+        font-size: 20px;
+        font-weight: 600;
+    
+    }
+    .b51{
+        margin-left: 40%;
+    }
+    .b52{
+        margin-left: 40%;
+    }
+    .b53{
+        margin-left: 45%;
+    }
+    .fruits{
+        font-size: 20px;
+        font-weight: 500;
+        overflow: hidden;
+        word-spacing: 20px;
+        padding: 20px;
+    }
+    .Vegetables{
+        font-size: 20px;
+        font-weight: 500;
+        overflow: hidden;
+        word-spacing: 20px;
+        padding: 20px;
+    
+    }
+    .Other{
+        font-size: 20px;
+        font-weight: 500;
+        overflow: hidden;
+        word-spacing: 20px;
+        padding: 20px;
+    
+    }
+    
